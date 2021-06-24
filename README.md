@@ -2,7 +2,7 @@
 
 应用的基础框架
 ``` 
-pod 'ApplicationCommonFramework'
+pod 'LFApplicationCommonFramework'
 ``` 
 
 ### 简易封装可自定义的App框架
